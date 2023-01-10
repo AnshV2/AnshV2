@@ -35,7 +35,7 @@ Please feel free to check out any of my projects; Always open to conversation if
     <br>
   Where I keep my data science work that I do with kaggle datasets. 
   <br>
-  <p></p<
+  <p></p>
 - DMOJ: https://dmoj.ca/user
         <br>
   Where I do competitive programming problems.</b></u></a>
