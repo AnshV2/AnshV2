@@ -18,7 +18,8 @@ Please feel free to check out any of my projects; Always open to conversation if
 - 🔎 I've also been learning and refining my front end skills with react. My aesthetic skills are improving slowly rest assured. 
         <br>
 - 🎵 I am a music enthusiast! my spotify is AnshV2 feel free to check out my playlists as disorganized as they are.
-        <br> </b></u></a>
+        <br>
+- 🎥 I'm also quite the media consumer from tv.shows to anime and movies. Hyped for the new anime season (current favorite: Blue Lock)!</b></u></a>
       </p>
 
   <h2> My Toolkit: </h2>
