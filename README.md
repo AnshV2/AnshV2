@@ -6,8 +6,8 @@
 <div align="center" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=FFA500&center=true&width=435&lines=CS+student+at+uWaterloo+;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
   <br> 
-  <div class="tenor-gif-embed" data-postid="17684887" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a         href="https://tenor.com/view/luffy-child-monkey-d-luffy-anime-one-piece-gif-17684887">Luffy Child GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div><br>
+  <iframe src="https://giphy.com/embed/zGvF3zPrFnvIA" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a   href="https://giphy.com/gifs/luffy-zGvF3zPrFnvIA">via GIPHY</a></p>
+  <br>
 
 <div align="left">
 
