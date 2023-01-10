@@ -9,22 +9,16 @@
 
 <div align="left">
 
-
-
-
-👋 Welcome to my Github profile! I am currently a `first-year` student studying `Computer Science and Business Administration` at the University of Waterloo. You can check out my personal website <a href="https://christinaly19.github.io/Personal_Website_/"><u><b>here!</b></u></a><br><br>
-Please feel free to check out any of my projects; I'm also always open to feedback and suggestions! 
+👋 Welcome to my Github profile! I am currently a `first-year` student studying `Computer Science` at the University of Waterloo.<br><br>
+Please feel free to check out any of my projects; Always open to conversation if you wanna reach out 😁
   <h2> About Me: </h2>
   <p>
-- 💻 I have been learning (and improving!) my front-end development for the past year
+- 💻 I have been learning (and improving!) my machine learning and Data Science. You can find my kaggle where I do most of my stuff at the bottom! 
     <br>
-- 🌱 I am currently learning React and Tailwind 
+- 🔎 I've also been learning and refining my front end skills with react. My aesthetic skills are improving slowly rest assured. 
         <br>
-- 🔎 I enjoy experimenting with interactive design in UI/UX
-        <br>
-- 🎵 I am a Taylor Swift enthusiast! 
-        <br>
-- 🖊️ Fun fact: I (sometimes) write short stories! You can read my latest published story <a href="https://www.asterlit.org/spring2021/christina-li"><u><b> here </b></u></a>
+- 🎵 I am a music enthusiast! my spotify is AnshV2 feel free to check out my playlists as disorganized as they are.
+        <br> </b></u></a>
       </p>
 
   <h2> My Toolkit: </h2>
