@@ -6,10 +6,13 @@
 <div align="center" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=FFA500&center=true&width=435&lines=CS+student+at+uWaterloo+;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
   <br> 
-  <img src="https://tenor.com/view/cute-adorable-one-piece-luffy-wave-gif-17513607" width="300" height="200">
+  <div class="tenor-gif-embed" data-postid="17684887" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a         href="https://tenor.com/view/luffy-child-monkey-d-luffy-anime-one-piece-gif-17684887">Luffy Child GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div><br>
 
 <div align="left">
+
+
+
 
 👋 Welcome to my Github profile! I am currently a `first-year` student studying `Computer Science and Business Administration` at the University of Waterloo. You can check out my personal website <a href="https://christinaly19.github.io/Personal_Website_/"><u><b>here!</b></u></a><br><br>
 Please feel free to check out any of my projects; I'm also always open to feedback and suggestions! 
