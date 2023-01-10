@@ -6,7 +6,7 @@
 <div align="center" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=FFA500&center=true&width=435&lines=CS+student+at+uWaterloo+;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
   <br> 
-  <img src="[https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif](https://tenor.com/view/cute-adorable-one-piece-luffy-wave-gif-17513607)" width="300" height="200">
+  <img src="https://tenor.com/view/cute-adorable-one-piece-luffy-wave-gif-17513607" width="300" height="200">
 </div><br>
 
 <div align="left">
