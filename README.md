@@ -29,8 +29,17 @@ Please feel free to check out any of my projects; Always open to conversation if
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"></a>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"></a>
 
-  <h2> Other Places to Find Me: </h2>
-  <a href="https://www.linkedin.com/in/christina-li-11b880217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <h2> Other places I code: </h2>
+  <p>
+- KAGGLE: https://www.kaggle.com/anshv2/code 
+    <br>
+  Where I keep my data science work that I do with kaggle datasets. 
+  <br>
+- DMOJ: https://dmoj.ca/user
+        <br>
+  Where I do competitive programming problems.</b></u></a>
+      </p>
+
   
   <h2> Contact Me: </h2>
  <img src ="https://img.shields.io/badge/Email-christinayxli%40gmail.com-blue"></a>
