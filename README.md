@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 🌸 &nbsp Wassup Ansh Agarwal Here 👋 &nbsp 🌸</h1>
+<h1> 🌸 &nbsp Wassup Ansh Agarwal Here :v: &nbsp 🌸</h1>
 </div>
 
 
