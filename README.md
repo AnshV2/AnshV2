@@ -4,7 +4,7 @@
 
 
 <div align="center" width="50">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=3B2D62&center=true&width=435&lines=CS+student+at+uWaterloo+;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=FFA500&center=true&width=435&lines=CS+student+at+uWaterloo+;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
   <br> 
   <img src="https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif" width="300" height="200">
 </div><br>
