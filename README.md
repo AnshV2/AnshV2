@@ -5,9 +5,7 @@
 
 <div align="center" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=FFA500&center=true&width=435&lines=CS+student+at+uWaterloo+;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
-  <br> 
-  <iframe src="https://giphy.com/embed/zGvF3zPrFnvIA" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a   href="https://giphy.com/gifs/luffy-zGvF3zPrFnvIA">via GIPHY</a></p>
-  <br>
+
 
 <div align="left">
 
