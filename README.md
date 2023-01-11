@@ -33,7 +33,11 @@ Please feel free to check out any of my projects; Always open to conversation if
 <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB" alt="Pandas"></a>
 <img src="https://img.shields.io/badge/Tensorflow-20232A?style=for-the-badge&logo=Tensorflow&logoColor=61DAFB" alt="Tensorflow"></a>
 <img src="https://img.shields.io/badge/MySql-20232A?style=for-the-badge&logo=MySql&logoColor=61DAFB" alt="MySql"></a>
-<img src="https://img.shields.io/badge/SciKit-Learn-20232A?style=for-the-badge&logo=SciKit-Learn&logoColor=61DAFB" alt="SciKit-Learn"></a>
+<img src="https://img.shields.io/badge/SciKit-20232A?style=for-the-badge&logo=SciKit&logoColor=61DAFB" alt="SciKit"></a>
+<img src="https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=61DAFB" alt="Keras"></a>
+<img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=Django&logoColor=61DAFB" alt="Django"></a>
+<img src="https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=Tableau&logoColor=61DAFB" alt="Tableau"></a>
+
 
 
 
