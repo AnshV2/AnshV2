@@ -38,7 +38,7 @@ Please feel free to check out any of my projects; Always open to conversation if
 <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=Django&logoColor=61DAFB" alt="Django"></a>
 <img src="https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=Tableau&logoColor=61DAFB" alt="Tableau"></a>
 <img src="https://img.shields.io/badge/powerbi-20232A?style=for-the-badge&logo=powerbi&logoColor=61DAFB" alt="powerbi"></a>
-<img src="https://img.shields.io/badge/cpp-20232A?style=for-the-badge&logo=cpp&logoColor=61DAFB" alt="cpp"></a>
+<img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=C++&logoColor=61DAFB" alt="C++"></a>
 
 
 
