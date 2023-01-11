@@ -33,6 +33,7 @@ Please feel free to check out any of my projects; Always open to conversation if
 <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB" alt="Pandas"></a>
 <img src="https://img.shields.io/badge/Tensorflow-20232A?style=for-the-badge&logo=Tensorflow&logoColor=61DAFB" alt="Tensorflow"></a>
 <img src="https://img.shields.io/badge/MySql-20232A?style=for-the-badge&logo=MySql&logoColor=61DAFB" alt="MySql"></a>
+<img src="https://img.shields.io/badge/SciKit-Learn-20232A?style=for-the-badge&logo=SciKit-Learn&logoColor=61DAFB" alt="SciKit-Learn"></a>
 
 
 
