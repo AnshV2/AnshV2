@@ -32,8 +32,9 @@ Please feel free to check out any of my projects; Always open to conversation if
 <img src="https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=NumPy&logoColor=61DAFB" alt="NumPy"></a>
 <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB" alt="Pandas"></a>
 <img src="https://img.shields.io/badge/Tensorflow-20232A?style=for-the-badge&logo=Tensorflow&logoColor=61DAFB" alt="Tensorflow"></a>
-<img src="https://img.shields.io/badge/Seaborn-20232A?style=for-the-badge&logo=Seaborn&logoColor=61DAFB" alt="Seaborn"></a>
-<img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=Matplotlib&logoColor=61DAFB" alt="Matplotlib"></a>
+<img src="https://img.shields.io/badge/MySql-20232A?style=for-the-badge&logo=MySql&logoColor=61DAFB" alt="MySql"></a>
+
+
 
   <h2> Other places I code: </h2>
   <p>
