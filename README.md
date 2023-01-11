@@ -30,6 +30,10 @@ Please feel free to check out any of my projects; Always open to conversation if
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"></a>
 <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB" alt="Flask"></a>
 <img src="https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=NumPy&logoColor=61DAFB" alt="NumPy"></a>
+<img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB" alt="Pandas"></a>
+<img src="https://img.shields.io/badge/Tensorflow-20232A?style=for-the-badge&logo=Tensorflow&logoColor=61DAFB" alt="Tensorflow"></a>
+<img src="https://img.shields.io/badge/Seaborn-20232A?style=for-the-badge&logo=Seaborn&logoColor=61DAFB" alt="Seaborn"></a>
+<img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=Matplotlib&logoColor=61DAFB" alt="Matplotlib"></a>
 
   <h2> Other places I code: </h2>
   <p>
