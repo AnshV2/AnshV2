@@ -37,7 +37,8 @@ Please feel free to check out any of my projects; Always open to conversation if
 <img src="https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=61DAFB" alt="Keras"></a>
 <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=Django&logoColor=61DAFB" alt="Django"></a>
 <img src="https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=Tableau&logoColor=61DAFB" alt="Tableau"></a>
-<img src="https://img.shields.io/badge/beautifulsoup-20232A?style=for-the-badge&logo=beautifulsoup&logoColor=61DAFB" alt="beautifulsoup"></a>
+<img src="https://img.shields.io/badge/powerbi-20232A?style=for-the-badge&logo=powerbi&logoColor=61DAFB" alt="powerbi"></a>
+<img src="https://img.shields.io/badge/c++-20232A?style=for-the-badge&logo=c++&logoColor=61DAFB" alt="c++"></a>
 
 
 
