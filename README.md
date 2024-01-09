@@ -9,17 +9,17 @@
 
 <div align="left">
 
-👋 Welcome to my Github profile! I am currently a `first-year` student studying `Computer Science` at the University of Waterloo.<br><br>
+👋 Welcome to my Github profile! I am currently a `second-year` student studying `Computer Science` at the University of Waterloo.<br><br>
 Please feel free to check out any of my projects; Always open to conversation if you wanna reach out 😁
   <h2> About Me: </h2>
   <p>
+- 🔎 I've been learning Web Development and trying to create some fun projects. My development experience is documented here so feel free to check out what I've made!
+    <br>
 - 💻 I have been learning (and improving!) my machine learning and Data Science. You can find my kaggle where I do most of my stuff at the bottom! 
     <br>
-- 🔎 I've also been learning and refining my front end skills with react. My aesthetic skills are improving slowly rest assured. 
-        <br>
 - 🎵 I am a music enthusiast! my spotify is AnshV2 feel free to check out my playlists as disorganized as they are.
         <br>
-- 🎥 I'm also quite the media consumer from tv.shows to anime and movies. Hyped for the new anime season (current favorite: Blue Lock)!</b></u></a>
+- 🎥 I'm also quite the media consumer from tv.shows to anime and movies. Hyped for the new anime season (current favorite: Vinland Saga)!</b></u></a>
       </p>
 
   <h2> My Toolkit: </h2>
