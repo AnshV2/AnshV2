@@ -9,7 +9,7 @@
 
 <div align="left">
 
-👋 Welcome to my Github profile! I am currently a `second-year` student studying `Computer Science` at the University of Waterloo.<br><br>
+👋 Welcome to my Github profile! I am currently a `third-year` student studying `Computer Science` at the University of Waterloo.<br><br>
 Please feel free to check out any of my projects; Always open to conversation if you wanna reach out 😁
   <h2> About Me: </h2>
   <p>
